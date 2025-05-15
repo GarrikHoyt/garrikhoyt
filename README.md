@@ -17,7 +17,7 @@ Uncertainty Quantification, Catastrophe Modeling, Data Science, Machine Learning
 
 ### Publications
 
-[Google Scholar]("https://scholar.google.com/citations?user=H1L5nwYAAAAJ&hl=en")
+[Google Scholar](https://scholar.google.com/citations?user=H1L5nwYAAAAJ&hl=en)
 
 <!--
 **GarrikHoyt/garrikhoyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
